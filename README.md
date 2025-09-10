@@ -1,4 +1,4 @@
-# Python Search Results Content Pipeline
+# RAG Web scrapping pipeline
 
 This project processes JSON files containing search results, scrapes content from URLs (including HTML and PDF), cleans and chunks the text, and saves enriched results to a new JSON file. It is designed for research, data enrichment, and RAG (Retrieval-Augmented Generation) workflows.
 
